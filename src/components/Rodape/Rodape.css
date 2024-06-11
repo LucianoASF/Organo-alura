@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #6278f7;
+    height: 150px;
+}
+
+.redes-sociais{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.footer p{
+    color: #fff;
+}
